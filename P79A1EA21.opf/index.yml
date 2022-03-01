@@ -1,0 +1,214 @@
+id: 64a17d93f66c4d38bcc2368a893cf808
+annotation_type: index
+revision: '00001'
+annotations:
+  0abafeace525497c84c960fe777395d8:
+    work_id: WA9A4C50C
+    span:
+      vol: CII_Birth of Jīvaka
+      start: 0
+      end: 2581
+  47b2a073000f4900919ef57fc14a283d:
+    work_id: W1EE8D613
+    span:
+      vol: CII_Jīvaka and the Buddha
+      start: 0
+      end: 174479
+  3189732a19b84ce497a4c778ed1f82a5:
+    work_id: W353661FB
+    span:
+      vol: CII_Jīvaka chooses to train as a doctor
+      start: 0
+      end: 10427
+  e0c0de84bbb348f1a6b2a228ee731398:
+    work_id: W7CB6B55D
+    span:
+      vol: CII_Jīvaka leaves Ātreya. Jīvaka’s career
+      start: 0
+      end: 9321
+  acbb0f539f41479488bea9d755332689:
+    work_id: W04548E98
+    span:
+      vol: CII_Jīvaka returns to Rājagṛha and his vaidyarājābhiṣeka
+      start: 0
+      end: 9797
+  c148739301364430951521a226f684c1:
+    work_id: W24A44C16
+    span:
+      vol: CI_Bimbisāra kills an ascetic, who promises to be born as his son to take
+        revenge
+      start: 0
+      end: 3039
+  1dbf7b901b4f480387cf5e68e1fafc68:
+    work_id: W7BEE4F44
+    span:
+      vol: CI_Birth of Abhaya
+      start: 0
+      end: 2494
+  599905bb130b4db88cc95f83f88e5005:
+    work_id: W2D010ED7
+    span:
+      vol: CI_Biṃbisāra and the merchant’s wife
+      start: 0
+      end: 2201
+  5a3c53a23c2b412d84dce107f345cded:
+    work_id: W599D2EA2
+    span:
+      vol: CI_Biṃbisāra and Āmrapālī
+      start: 0
+      end: 3138
+  7de7ff0ffa86454d9c0b3a759f716caf:
+    work_id: W6A516473
+    span:
+      vol: CI_Death of Bimbisāra’s First Queen, Gopa offers his niece Upacelā as Queen
+      start: 0
+      end: 4876
+  d70bf76b74bf4769b832db02980b5e12:
+    work_id: W5967A5BA
+    span:
+      vol: CI_Khaṇḍa, the good Minister
+      start: 0
+      end: 3336
+  b3805897ba3b49f2a2143fe2487b7914:
+    work_id: W26A91EAA
+    span:
+      vol: CI_Khaṇḍa’s flight to Vaiśālī
+      start: 0
+      end: 1785
+  520f60eee5eb4ebca73ec3599194ecd8:
+    work_id: W8422B543
+    span:
+      vol: CI_Khaṇḍa’s sons, Gopa and Siṃha
+      start: 0
+      end: 5042
+  0582e804031c427fb9b5429a845f02a8:
+    work_id: WBA4871B6
+    span:
+      vol: CI_Mahānāma and Āmrapālī
+      start: 0
+      end: 6215
+  9b32512f4318422483b21db50f21254a:
+    work_id: W505AB7EE
+    span:
+      vol: CI_Vaiśālī and its gaṇa government
+      start: 0
+      end: 2285
+  c49e15747c944bce974f712fb4528702:
+    work_id: W6A29B4FF
+    span:
+      vol: Cīvaravastupiṇḍoddāna
+      start: 0
+      end: 191
+  f743ccfe96894d3a9cf3ab117a33804a:
+    work_id: WE82CDA03
+    span:
+      vol: More on sharing the deceased’s goods, Śrāvastī
+      start: 0
+      end: 37926
+  2460325124dd4014a8366f5f03203072:
+    work_id: WAAD8A7AD
+    span:
+      vol: Piṇḍoddāna
+      start: 0
+      end: 158
+  a72104d8e63144a8b43c4a5f0148e274:
+    work_id: W86BBDB77
+    span:
+      vol: Prefiguration in previos life, a poisoned elephant eaten by many and a
+        jackal, the previous incrnation of Upananda, is killed by a snapping bowstring
+      start: 0
+      end: 2077
+  904dfd3111394ca0ac415a2d8d255481:
+    work_id: W56052168
+    span:
+      vol: Question by Upālin to the Lord on the case if a monk or somebody associated
+        dies, who should take over his gear?
+      start: 0
+      end: 6064
+  0c183a6772924b27901c9ac3fcf67883:
+    work_id: W7D7D3D37
+    span:
+      vol: Question on gifts by Upālin to the Lord, allowed and not
+      start: 0
+      end: 9375
+  de2d6da1658b4bfabaa7cacadeb8570e:
+    work_id: W61A70B8D
+    span:
+      vol: Rich trader gives a great gift to a beautiful monastery, though only to
+        one monk, but the Lord says this is not to be regretted
+      start: 0
+      end: 1427
+  98c0a91caa4c46e281a0eccd931a6da4:
+    work_id: W08A1D1DA
+    span:
+      vol: Rules on robes
+      start: 0
+      end: 7984
+  3173d59e1e104c3ab4daff3701d8b2ff:
+    work_id: W0E4C4344
+    span:
+      vol: Svayaṃvara of the Haṃsarāja’s daughter
+      start: 0
+      end: 8749
+  3f2e8d900d3145f597c121010ab33ff5:
+    work_id: W09F0B3EF
+    span:
+      vol: Uddāna
+      start: 0
+      end: 472
+  4a21be5bf5584799abe4f7ba37fe1bce:
+    work_id: WB8271787
+    span:
+      vol: Upananda and previous life with two crabs, a jackal and catch of fishes
+      start: 0
+      end: 11347
+  16868ebc689d4c34ab849ee0e4b87806:
+    work_id: W9F234113
+    span:
+      vol: 'Upananda aquires cloth though not invited, background in previous life:
+        Old Brāhmaṇa stealthily aquirres a garment intended for the youthful Brāhmaṇa'
+      start: 0
+      end: 2947
+  3473dde53cc544c8a439b2ec55f4f5e5:
+    work_id: WBEB4668D
+    span:
+      vol: Upananda gets a blister on his head, gets medicines, but he dies. Principles
+        for the distribution of his belongings
+      start: 0
+      end: 6959
+  2218cc60ea884b4d87ae799997146f81:
+    work_id: W087C6ED9
+    span:
+      vol: Various types of cloth proposed for the cīvara, but turned down
+      start: 0
+      end: 1851
+  e872879571e44c5789b21cbbadf987f6:
+    work_id: WFF73973B
+    span:
+      vol: Viśākhā gives birth to 32 sons from eggs
+      start: 0
+      end: 10554
+  1c88cef135914fc5966d3e9382133309:
+    work_id: W5378AEA4
+    span:
+      vol: Viśākhā
+      start: 0
+      end: 13806
+  5adfb526151b48248205535d0b33bc33:
+    work_id: WD8FBEEF2
+    span:
+      vol: Viśākhā’s help and advice
+      start: 0
+      end: 15082
+  d0efdeb3f49e4c608bab436ead9d5560:
+    work_id: W6C9A6515
+    span:
+      vol: Viśākhā’s previous life
+      start: 0
+      end: 3165
+  5b2bafd521914e0d8a97ab0c029e1dfe:
+    work_id: WD9D99AE9
+    span:
+      vol: Why Viśākhā’s sons were killed
+      start: 0
+      end: 22217

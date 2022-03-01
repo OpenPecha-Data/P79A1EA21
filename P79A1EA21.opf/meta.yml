@@ -1,0 +1,164 @@
+id: P79A1EA21
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,07: Cīvaravastu'
+  language: bo
+  volumes:
+    15dd0775dc484721b9bbab724ab6ef02:
+      title: CII_Birth of Jīvaka
+      base_file: CII_Birth of Jīvaka.txt
+      work_id: WA9A4C50C
+    8c57bec593c048d2979141cdf03de2f1:
+      title: CII_Jīvaka and the Buddha
+      base_file: CII_Jīvaka and the Buddha.txt
+      work_id: W1EE8D613
+    34eb96c916f140b8a933418a38e37ef1:
+      title: CII_Jīvaka chooses to train as a doctor
+      base_file: CII_Jīvaka chooses to train as a doctor.txt
+      work_id: W353661FB
+    49ac92db484149578a395f9d77cc32ba:
+      title: CII_Jīvaka leaves Ātreya. Jīvaka’s career
+      base_file: CII_Jīvaka leaves Ātreya. Jīvaka’s career.txt
+      work_id: W7CB6B55D
+    4d547ac25622402ab9de7f9d1bfe0ae8:
+      title: CII_Jīvaka returns to Rājagṛha and his vaidyarājābhiṣeka
+      base_file: CII_Jīvaka returns to Rājagṛha and his vaidyarājābhiṣeka.txt
+      work_id: W04548E98
+    0091f1e9fea84983968679977506ccec:
+      title: CI_Bimbisāra kills an ascetic, who promises to be born as his son to
+        take revenge
+      base_file: CI_Bimbisāra kills an ascetic, who promises to be born as his son
+        to take revenge.txt
+      work_id: W24A44C16
+    ebe60b9fc0c948838db3f95cdd5696e2:
+      title: CI_Birth of Abhaya
+      base_file: CI_Birth of Abhaya.txt
+      work_id: W7BEE4F44
+    b51af78b900e4dcc9c62821ebdbbbe97:
+      title: CI_Biṃbisāra and the merchant’s wife
+      base_file: CI_Biṃbisāra and the merchant’s wife.txt
+      work_id: W2D010ED7
+    e87795ae13184ff68793573a99e8ab54:
+      title: CI_Biṃbisāra and Āmrapālī
+      base_file: CI_Biṃbisāra and Āmrapālī.txt
+      work_id: W599D2EA2
+    dc075de104bd4d0c923b96846ab0532e:
+      title: CI_Death of Bimbisāra’s First Queen, Gopa offers his niece Upacelā as
+        Queen
+      base_file: CI_Death of Bimbisāra’s First Queen, Gopa offers his niece Upacelā
+        as Queen.txt
+      work_id: W6A516473
+    a2abfc3fb99f403cb57e9402f16bc84f:
+      title: CI_Khaṇḍa, the good Minister
+      base_file: CI_Khaṇḍa, the good Minister.txt
+      work_id: W5967A5BA
+    efa0ff638f2241ed9c42ebec34e42f43:
+      title: CI_Khaṇḍa’s flight to Vaiśālī
+      base_file: CI_Khaṇḍa’s flight to Vaiśālī.txt
+      work_id: W26A91EAA
+    2765fd4f19f94cb3965341ff11fe047d:
+      title: CI_Khaṇḍa’s sons, Gopa and Siṃha
+      base_file: CI_Khaṇḍa’s sons, Gopa and Siṃha.txt
+      work_id: W8422B543
+    4f3121428d99426f8f85301d0919617e:
+      title: CI_Mahānāma and Āmrapālī
+      base_file: CI_Mahānāma and Āmrapālī.txt
+      work_id: WBA4871B6
+    31f87eff24344bc6881647e3cebc5547:
+      title: CI_Vaiśālī and its gaṇa government
+      base_file: CI_Vaiśālī and its gaṇa government.txt
+      work_id: W505AB7EE
+    2e458f7e8e35448a9678e737227e2399:
+      title: Cīvaravastupiṇḍoddāna
+      base_file: Cīvaravastupiṇḍoddāna.txt
+      work_id: W6A29B4FF
+    ac463f59ae84403993eaa3b2254f393e:
+      title: More on sharing the deceased’s goods, Śrāvastī
+      base_file: More on sharing the deceased’s goods, Śrāvastī.txt
+      work_id: WE82CDA03
+    e698dde5de064c19a66e52b85151518b:
+      title: Piṇḍoddāna
+      base_file: Piṇḍoddāna.txt
+      work_id: WAAD8A7AD
+    f2326f451d1f4ef3a7efb332490547fd:
+      title: Prefiguration in previos life, a poisoned elephant eaten by many and
+        a jackal, the previous incrnation of Upananda, is killed by a snapping bowstring
+      base_file: Prefiguration in previos life, a poisoned elephant eaten by many
+        and a jackal, the previous incrnation of Upananda, is killed by a snapping
+        bowstring.txt
+      work_id: W86BBDB77
+    892d6bfac272457e8dca4b979952186a:
+      title: Question by Upālin to the Lord on the case if a monk or somebody associated
+        dies, who should take over his gear?
+      base_file: Question by Upālin to the Lord on the case if a monk or somebody
+        associated dies, who should take over his gear?.txt
+      work_id: W56052168
+    768ce6ab1f2c4bfb8e26e2b4b2108a19:
+      title: Question on gifts by Upālin to the Lord, allowed and not
+      base_file: Question on gifts by Upālin to the Lord, allowed and not.txt
+      work_id: W7D7D3D37
+    88ca5e9bfd824223a3ce55eac831cf83:
+      title: Rich trader gives a great gift to a beautiful monastery, though only
+        to one monk, but the Lord says this is not to be regretted
+      base_file: Rich trader gives a great gift to a beautiful monastery, though only
+        to one monk, but the Lord says this is not to be regretted.txt
+      work_id: W61A70B8D
+    85eaeb9455204e7498f9f5a7630388d7:
+      title: Rules on robes
+      base_file: Rules on robes.txt
+      work_id: W08A1D1DA
+    e99320002ddf4bb6af3edd49458792b6:
+      title: Svayaṃvara of the Haṃsarāja’s daughter
+      base_file: Svayaṃvara of the Haṃsarāja’s daughter.txt
+      work_id: W0E4C4344
+    fb9f9ac7ecb645a3a23b880e699010c4:
+      title: Uddāna
+      base_file: Uddāna.txt
+      work_id: W09F0B3EF
+    9a7b23651382435eb21266e32aadf7dc:
+      title: Upananda and previous life with two crabs, a jackal and catch of fishes
+      base_file: Upananda and previous life with two crabs, a jackal and catch of
+        fishes.txt
+      work_id: WB8271787
+    328330f871ee446183cd27e26937ea17:
+      title: 'Upananda aquires cloth though not invited, background in previous life:
+        Old Brāhmaṇa stealthily aquirres a garment intended for the youthful Brāhmaṇa'
+      base_file: 'Upananda aquires cloth though not invited, background in previous
+        life: Old Brāhmaṇa stealthily aquirres a garment intended for the youthful
+        Brāhmaṇa.txt'
+      work_id: W9F234113
+    77c12ce19b644f8f896f3c4147487b07:
+      title: Upananda gets a blister on his head, gets medicines, but he dies. Principles
+        for the distribution of his belongings
+      base_file: Upananda gets a blister on his head, gets medicines, but he dies.
+        Principles for the distribution of his belongings.txt
+      work_id: WBEB4668D
+    961671e6230e481195bb80ebaa634f3c:
+      title: Various types of cloth proposed for the cīvara, but turned down
+      base_file: Various types of cloth proposed for the cīvara, but turned down.txt
+      work_id: W087C6ED9
+    849f9bf2d69b4da8af68c8ac18a3c193:
+      title: Viśākhā gives birth to 32 sons from eggs
+      base_file: Viśākhā gives birth to 32 sons from eggs.txt
+      work_id: WFF73973B
+    8c560313cd204e15927059f4e9b13292:
+      title: Viśākhā
+      base_file: Viśākhā.txt
+      work_id: W5378AEA4
+    a5d14b7f3d554ef68b7c73c9d5a77dcf:
+      title: Viśākhā’s help and advice
+      base_file: Viśākhā’s help and advice.txt
+      work_id: WD8FBEEF2
+    ed33c9b6c5d145e3a6c4b6a40d95cdac:
+      title: Viśākhā’s previous life
+      base_file: Viśākhā’s previous life.txt
+      work_id: W6C9A6515
+    447d6d9149f54887b40173ff355fa597:
+      title: Why Viśākhā’s sons were killed
+      base_file: Why Viśākhā’s sons were killed.txt
+      work_id: WD9D99AE9
+  chapter_to_tile:
+    CI: The descendents of Bimbisāra
+    CII: Jīvaka
+created_at: '2022-03-01T22:17:52.811039'
+last_modified_at: '2022-03-01T22:17:52.811047'
